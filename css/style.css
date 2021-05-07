@@ -1,0 +1,14 @@
+html{font-family: 'Roboto', sans-serif;background-color: deepskyblue;}
+h1{text-align: center;margin: 0;padding:20px;text-shadow: 3px 3px 3px blue;
+font-size: 60px;color:cornflowerblue;}
+a{text-align: center;font-size: 45px;}
+ul,li,p{font-size: 20px;}
+.key{text-align: center;font-size: 45px;font-style:inherit;}
+body {
+    width: 700px;
+    margin: 0 auto;
+    background-color: #FF9500;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+  }
+  img{display: block;margin: 0 auto;}
